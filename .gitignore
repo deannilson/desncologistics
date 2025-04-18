@@ -11,7 +11,6 @@ firebase-debug.*.log*
 .firebase
 .firebaserc
 firebase.json
-plugins/firebase.ts
 dist
 .nuxt
 
