@@ -1,1 +1,0 @@
-import{g as s,o as r,c as o,a as e,t as a}from"./Dpvjcl7r.js";const c={class:"flex items-center"},n={class:"text-base font-black text-error uppercase pr-2"},i=e("div",{class:"border border-error w-12"},null,-1),d=s({__name:"heading",props:{title:String},setup(t){return(l,_)=>(r(),o("div",c,[e("h2",n,a(t.title),1),i]))}});export{d as _};
