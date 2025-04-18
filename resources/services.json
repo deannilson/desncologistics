@@ -1,0 +1,50 @@
+[
+  {
+    "icon": "plane",
+    "name": "Air Freight",
+    "image": "/services/air.jpg",
+    "path": "/services/air-freight",
+    "desc": "With our time-definite, guaranteed and cost-saving options, we can meet your air cargo and urgent freight requirements with reliability and professionalism.",
+    "long": "<p>Air freight transportation is a fast and efficient shipping method that is particularly valuable to businesses needing to get products to international customers quickly or stay on track with a just-in-time manufacturing model. The primary downside of air shipping is that the cost can be significantly higher than ocean freight forwarding. Fortunately, Denco Logistics can help lower this cost while also providing exceptional customer support.</p><p>Denco Logistics has no interest in being a high-volume, one-model-fits-all provider. Our clients are not just numbers, and every shipment is given the individual attention to detail it requires. While many larger air freight forwarders are bound by consolidation schedules, we are able to offer greater flexibility for our clients and their cargo.</p>"
+  },
+  {
+    "icon": "ship",
+    "name": "Ocean Freight",
+    "image": "/services/ocean.jpg",
+    "path": "/services/ocean-freight",
+    "desc": "New Standard Logistics is a fully licensed NVOCC (Non-Vessel Owning Common Carrier) ocean freight forwarder providing services to and from all major ports worldwide.",
+    "long": "<p>Denco Logistics is a fully licensed NVOCC (Non-Vessel Owning Common Carrier) ocean freight forwarder providing services to and from all major ports worldwide. We currently hold contracts with all major shipping lines and consolidators and are thus able to offer Weekly Ocean shipping upon request.</p>"
+  },
+  {
+    "icon": "truck",
+    "name": "Ground Freight",
+    "image": "/services/road.jpg",
+    "path": "/services/ground-freight",
+    "desc": "We offer superior customer service and satellite tracking technology, allowing you constant information regarding your urgent shipments and the time of pick up or arrival.",
+    "long": "<h4>Road Freight</h4><p>Our goal at Denco Logistics is to free you to focus on your core business by helping you manage the supply of your products in shorter lead time and at a lower cost. We understand your business requires logistics services 24/7 and can provide domestic trucking services tailored to your specific logistical and budget needs. Not only do we ship anything around the world, we can also handle the domestic shipping and local distribution of your products throughout.</p><p>Managing your loads through our LTL (Less-than Truck Load) service is the perfect way to optimize your domestic supply chain. New Standard Logistics offers co-load and consolidation LTL services to reduce your cost and improve your distribution pipeline. Bringing experience, creativity, and insight to your less-than-truckload shipping challenges, we step in to coordinate and add value at every turn.</p><h4>Rail Services</h4><p>The rail industry has developed new levels of efficiency, economy and sustainability that can translate directly to your own supply chain. Our relationships with rail operators together with our expertise in rail and intermodal freight movement, means we are able to offer highly effective transportation solutions. All backed up by our supporting services, such as customs clearance, terminal handling, inland distribution and final mile delivery.</p>"
+  },
+  {
+    "icon": "paw",
+    "name": "Animal Transportation",
+    "image": "/services/pets.jpg",
+    "path": "/services/animal-transportation",
+    "desc": "With diverse transportation capabilities and versatile solutions, your pet or farm animal comfort and safety are our number one concern. Your pets will get to you in no time.",
+    "long": "<p>We were one of the first full-service pet/animal relocation specialists and offer both domestic and global services. Our network of highly trained pet/animal handlers will ensure the safe travel of your family pet. We work hand in hand with Moving and Relocation companies in assisting their customers with safe, trouble-free transportation of the most important aspect of their relocation&hellip;the family pet!</p><p>Of course, we also handle domestic relocations as well. Our specialty is handling the complete travel needs of your pets, wherever and whenever the need arises. Check out our FAQ page to see the answers to some commonly asked questions regarding pet relocation. You can also check out this short video on How To Find The Right Pet mover For You. We have found it helps clients ask the right questions for their individual needs</p>"
+  },
+  {
+    "icon": "box",
+    "name": "Packaging & Storage",
+    "image": "/services/storage.jpg",
+    "path": "/services/packing_storage",
+    "desc": "Other companies may offer same day delivery for small parcels or envelopes within a certain area. But when you ship with New Standard Logistics , there are no limits.",
+    "long": "<p>According to clients requirements some packages are shipped under our Discreet Packaging Services. All parcels sent by us are dispatched insured by our courier, in plain bubble bags or cardboard boxes to protect your privacy. Additionally all parcels are delivered under signature.</p><p>All packages are discreet without any identifying labels showing where the package comes from or what is inside your parcel. Only our address is shown.</p>"
+  },
+  {
+    "icon": "warehouse",
+    "name": "Warehousing",
+    "image": "/services/warehousing.jpg",
+    "path": "/services/warehousing",
+    "desc": "We proudly serve the United States and the rest of the world. Whether you want your package to be stored and shipped on a later date across town or shipped Internationally.",
+    "long": "<p>Denco Logistics provides both domestic and international warehousing and distribution services for our shipping clients and partners. Our decades of experience combined with our extensive Denco Logistics cargo distribution networks makes us a valuable logistics partner. Businesses looking for a convenient and cost-effective solution to supply chain management often get the results they seek through a third-party logistics partner like Denco Logistics. Businesses looking to expand into new markets in foreign countries can also benefit greatly from third party global warehousing and distribution services.</p><p>Through our extensive shipping network, we provide transportation of products by air, land, and sea, plus delivery services when products have neared their final destinations. Some of the services we have provided include freight warehousing for the mining industry, management of weekly air shipments and distribution of shipments from all over the world, and inbound consolidation services for clients with multiple vendors. In addition to regular warehousing services, we also provide U.S. Customs bonded warehousing services.</p>"
+  }
+]
