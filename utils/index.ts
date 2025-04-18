@@ -4,9 +4,9 @@ export const APP_API = "https://xtremnet.vercel.app/mailer";
 
 export const APP_ADDRESS =
   "46850 Romeo Plank Rd,<br /> Macomb, MI 48044, <br />United States";
-export const APP_EMAIL = "info@dencologistics.com";
+export const APP_EMAIL = "info@dencologistic.com";
 export const APP_PHONE = "+1 586 372 8548";
-export const APP_DOMAIN = "wwww.dencologistics.com";
+export const APP_DOMAIN = "wwww.dencologistic.com";
 export const APP_LOGO = `<div class="pl-2" style="line-height:22px;" ><span class="font-black">Denco</span><br/><span class="font-light">Logistics</span></div>`;
 
 export const fixedBody = (val: boolean) => {
